@@ -1,0 +1,23 @@
+.Gitignore# Ignore bundler config
+/.bundle
+
+# Ignore all logfiles and tempfiles.
+/rdoc
+/log/*.log
+/tmp
+/public/system
+
+# Ruby
+/vendor/ruby
+
+# VIM
+*.swp
+*.un~
+
+# OS X
+*.DS_Store
+
+# Netbeans and other IDE’s
+/nbproject
+.project
+.idea/

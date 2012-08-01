@@ -1,0 +1,14 @@
+{
+  "run_list": [
+"recipe[deployment_gems]",
+"recipe[extra_gems]",
+"recipe[gdal]",
+"recipe[geos]",
+"recipe[nginx]",
+"recipe[postgis]",
+"recipe[postgres]",
+"recipe[proj4]",
+"recipe[test_gems]"
+  ]
+}
+
